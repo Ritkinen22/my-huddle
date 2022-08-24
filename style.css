@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section1{
+    /* margin: 20px 0px; */
+    /* border: 2px solid black; */
+    height: 650px;
+    background-image: url('./images/bg-hero-desktop.svg');
+    background-size: cover;
+    background-color: rgb(172, 250, 242);
+}
+
+.sub-section1{
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 30px; */
+    /* margin: 40px 30px 0px 30px; */
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: 5%;
+    height: 30px;
+}
+
+.Try-it{
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-weight: bolder;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+}
+
+.build{
+    margin-top: 15%;
+    margin-left: 10%;
+    /* border: 2px solid black; */
+    width: 35%
+}
+
+.Get{
+    width: 190px;
+    background-color: hsl(322, 100%, 66%);
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    font-weight: bolder;
+    color: white;
+    margin-top: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+}
+
+.illustrator{
+    margin-right: -60px;
+    margin-top: 45px;
+    width: 60%;
+}
+
+.illustrator-image{
+    width: 90%;
+    height: 99%;
+}
+
+.sub-section2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Grow-together{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15%;
+    height: 300px;
+    width: 90%;
+    margin-left: 57px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.grow{
+    margin-top: 40px;
+    margin-left: 15%;
+    font: 18px;
+}
+
+.Gh2{
+    margin-top: 50px;
+}
+
+.Generate{
+    width: 70%;
+    margin-top: 15px;
+}
+
+.Grow-Image{
+    width: 35%;
+    height: 75%;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+
+.Flow-convo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    height: 300px;
+    width: 90%;
+    margin-left: 57px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.Flow{
+    margin-top: 40px;
+    margin-left: 12%;
+    font: 18px;
+}
+
+.Fh2{
+    margin-top: 50px;
+}
+
+.Paginate{
+    width: 82%;
+    margin-top: 15px;
+}
+
+.Flow-Image{
+    width: 35%;
+    height: 75%;
+    margin-top: 40px;
+    margin-left: 45px;
+}
+
+.Your-users{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    height: 300px;
+    width: 90%;
+    margin-left: 57px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.Ready{
+    width: 300px;
+    height: 100px;
+    margin: 50px auto;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.GetS{
+    margin-top: 20px;
+    width: 180px;
+    height: 30px;
+    border-radius: 50px;
+    border: none;
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+}
+
